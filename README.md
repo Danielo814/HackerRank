@@ -27,7 +27,7 @@ This directory is to document my solutions to hacker rank problems.
 
 * [staircase.py](https://github.com/Danielo814/HackerRank/blob/master/staircase.py)
 
-  Takes a number and makes a staircase using **'#'** symbol with base and height both equal to **n**. Example output with **n** = 5:
+  Takes a number and makes a staircase using **'#'** symbol with base and height both equal to **n**. Example output with **n = 5**:
 
   ```
       #
