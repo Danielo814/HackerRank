@@ -23,3 +23,20 @@ This directory is to document my solutions to hacker rank problems.
 
   Takes an array of integers and calculates the fractions of its elements that are positive, negative, and are zeros. Prints the decimal value of each fraction on a new line.
   For example, given the array **arr = [1, 1, 0, -1, -1]**  there are **5**  elements, two positive, two negative and one zero. Their ratios would be **2/5 = 0.400000**, **2/5 = 0.400000**  and **1/5 = 0.200000**
+
+
+* [staircase.py](https://github.com/Danielo814/HackerRank/blob/master/staircase.py)
+
+  Takes a number and makes a staircase using **'#'** symbol with base and height both equal to **n**. Example:
+  **Input:**
+  python```
+  n = 5
+  ```
+  **Output:**
+  ```
+      #
+     ##
+    ###
+   ####
+  #####
+  ```
