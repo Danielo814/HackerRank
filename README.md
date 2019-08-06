@@ -36,3 +36,8 @@ This directory is to document my solutions to hacker rank problems.
    ####
   #####
   ```
+
+  
+  * [mini_max_sum.py](https://github.com/Danielo814/HackerRank/blob/master/mini_max_sum.py)
+
+    Takes five positive integers, finds the minimum and maximum values that can be calculated by summing exactly four of the five integers. Then print the respective minimum and maximum values as a single line of two space-separated long integers.
